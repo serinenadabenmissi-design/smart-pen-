@@ -80,8 +80,7 @@ Built solo in **4 weeks** as a university capstone — hardware, firmware, datas
 
 ---
 
-## 📸 Screenshots ### 🎛️ Live Analysis DashboardThe Streamlit interface enables real-time handwriting session recording, instant feature extraction, and ML-powered quality scoring. ![Smart Pen Live Analysis](https://raw.githubusercontent.com/serinenadabenmissi-design/smart-pen-/refs/heads/main/screenshots/smart%20pen%20analyze.png) > **Dashboard highlights:**> - ▶️ **Start Recording** — Capture live IMU data stream from ESP32 via serial port> - 🔍 **Analyze** — Trigger feature extraction pipeline and XGBoost inference> - 📊 **Extracted Features** — Visual breakdown of 7 selected biomechanical metrics> - 🧠 **Prediction** — Instant quality classification with confidence indicator ---
-
+## 📸 Screenshots ### 🎛️ Live Analysis DashboardThe Streamlit interface enables real-time handwriting session recording, instant feature extraction, and ML-powered quality scoring. ![Smart Pen Live Analysis](https://raw.githubusercontent.com/serinenadabenmissi-design/smart-pen-/refs/heads/main/screenshots/smart%20pen%20analyze.png) 
 > ▶️ Record a live session → 🔍 extract features → 🧠 get an instant quality prediction with a feature breakdown.
 
 <!--
